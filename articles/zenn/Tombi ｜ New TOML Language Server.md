@@ -1,3 +1,5 @@
+<!-- https://zenn.dev/yassun7010/articles/6a60d705d0a55c -->
+
 # Tombi | New TOML Language Server
 
 ここしばらく [Tombi](https://tombi-toml.github.io/tombi/) と名付けた TOML の Language Server を Rust で開発しています。
