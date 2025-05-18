@@ -1,4 +1,4 @@
-<!-- https://zenn.dev/yassun7010/articles/6a60d705d0a55c -->
+<!-- Published at https://zenn.dev/yassun7010/articles/6a60d705d0a55c -->
 
 # Tombi | New TOML Language Server
 
